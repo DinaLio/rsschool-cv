@@ -1,2 +1,2 @@
 # rsschool-cv
-https://DINALIO.github.io/rsschool-cv/cv
+https://dinalio.github.io/rsschool-cv/cv
