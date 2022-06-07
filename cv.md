@@ -18,11 +18,9 @@ I am a big fan of learning languages and finding logical connectivity in them. T
 
 ## About me as an employee
 I have excellent soft skills, but not only them.
-
 I have design skills in figma and canva programs.
 Experienced in copywriting for both advertising and website branding. 
 
-***
 By my first education I am a manager, I am able to lead projects and supervise the work of the team. 
 By my second education (by GeekBrains university) I am a sm-creator.
 And lately I worked in advertising, writing sales texts for the product. 
