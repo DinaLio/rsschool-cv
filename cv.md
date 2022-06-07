@@ -30,9 +30,13 @@ And lately I worked in advertising, writing sales texts for the product.
 ## The languages I speak
 
 :uk: English - level B2 (or maybe higher) 
+
 :ru: Russian - native language 
+
 :ukraine: Ukrainian - read and translate fluently
+
 :bulgaria: Bulgarian - understand and can translate 
+
 :netherlands: Dutch - I am studying at the moment
 
 ***
