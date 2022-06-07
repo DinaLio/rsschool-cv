@@ -27,3 +27,5 @@ And lately I worked in advertising, writing sales texts for the product.
 ***
 ## Something else
 I'm just at the beginning of my journey as a frontend developer and I have nothing to surprise you yet, but give me a little time and I will get to master this profession to reach the top. 
+
+
