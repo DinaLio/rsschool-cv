@@ -32,7 +32,7 @@ And lately I worked in advertising, writing sales texts for the product.
 - English - level B2 (or maybe higher) 
 - Russian - native language 
 - Ukrainian - read and translate fluently
-- Bulgarian - understand and can translate 
+- :bulgaria: Bulgarian - understand and can translate 
 - Dutch - I am studying at the moment
 
 ***
