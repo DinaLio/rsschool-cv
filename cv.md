@@ -5,8 +5,8 @@
 
 ## Contacts 
  - mail: dina.bogdanova.95@gmail.com 
- - tg: [dinalio](http://t.me/dinalio/)
-
+ - tg: [@dinalio](https://t.me/dinalio/)
+ 
 ***
 
 ## About me as a person 
