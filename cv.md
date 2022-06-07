@@ -4,8 +4,8 @@
 ***
 
 ## Contacts 
- - dina.bogdanova.95@gmail.com 
- - Telegramm: [dinalio](t.me/dinalio)
+ - mail: dina.bogdanova.95@gmail.com 
+ - tg: [dinalio](t.me/dinalio)
 
 ***
 
@@ -18,6 +18,7 @@ I am a big fan of learning languages and finding logical connectivity in them. T
 
 ## About me as an employee
 I have excellent soft skills, but not only them.
+
 I have design skills in figma and canva programs.
 Experienced in copywriting for both advertising and website branding. 
 
