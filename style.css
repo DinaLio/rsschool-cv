@@ -13,7 +13,8 @@ body {
   color: #171417;
 }
   .myphoto {
-width: 180px
+width: 100px
+ 
   }
   
 
@@ -48,6 +49,7 @@ align-content: space-around;
 } 
 
 .rs-logo { 
+
 height: 2.5vw; 
 background-color: #171417; 
 }
