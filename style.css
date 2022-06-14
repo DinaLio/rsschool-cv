@@ -45,12 +45,12 @@ align-content: space-around;
 
 .rs-logo { 
 height: 2.5vw; 
-background-color: #e2ae6c; 
+background-color: #171417; 
 }
 footer { 
 z-index: 99; 
 background-color:rgb(240, 207, 252);
-color: #a37c82; 
+color: #171417; 
 padding: 5vw 2vw; 
 }
 
