@@ -1,7 +1,9 @@
 /* Sample of css file */
 body {
   margin: 25px;
+
   background-color:#F5DEB3;
+  background-color:#FFF8DC;
   font-family: 'PT Sans', sans-serif;
   font-size: 14px;
   font-family: 'PT Sans', sans-serif;
@@ -11,7 +13,12 @@ body {
   color: #171417;
 }
   .myphoto {
+
 width: 500px
+
+width: 100px
+ 
+
   }
   
 
@@ -46,13 +53,21 @@ align-content: space-around;
 } 
 
 .rs-logo { 
+
 widht: 100px
+
+
+
 height: 2.5vw; 
 background-color: #171417; 
 }
 footer { 
 z-index: 99; 
+
 background-color:#F5DEB3;
+=======
+background-color:#FFF8DC;
+
 color: #171417; 
 padding: 5vw 2vw; 
 }
