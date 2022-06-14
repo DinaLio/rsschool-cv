@@ -12,6 +12,10 @@ body {
   line-height: 1.5;
   color: #171417;
 }
+  .myphoto {
+width: 180px
+  }
+  
 
   .nav-list {
   display: flex;
