@@ -1,7 +1,7 @@
 /* Sample of css file */
 body {
   margin: 25px;
-  background-color:rgb(240, 207, 252);
+  background-color:#FFF8DC;
   font-family: 'PT Sans', sans-serif;
   font-size: 14px;
   
@@ -55,7 +55,7 @@ background-color: #171417;
 }
 footer { 
 z-index: 99; 
-background-color:rgb(240, 207, 252);
+background-color:#FFF8DC;
 color: #171417; 
 padding: 5vw 2vw; 
 }
