@@ -4,8 +4,6 @@ body {
   background-color:#F5DEB3;
   font-family: 'PT Sans', sans-serif;
   font-size: 14px;
-  
-  body {
   font-family: 'PT Sans', sans-serif;
   font-size: 18px;
   font-weight: 400;
@@ -13,7 +11,7 @@ body {
   color: #171417;
 }
   .myphoto {
-width: 180px
+width: 500px
   }
   
 
@@ -48,6 +46,7 @@ align-content: space-around;
 } 
 
 .rs-logo { 
+widht: 100px
 height: 2.5vw; 
 background-color: #171417; 
 }
